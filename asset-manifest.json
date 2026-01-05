@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FreshKart-Bulk-Fruit-Vegetable-Ordering-Platform/static/css/main.4086991a.css",
+    "main.js": "/FreshKart-Bulk-Fruit-Vegetable-Ordering-Platform/static/js/main.5a7840ff.js",
+    "index.html": "/FreshKart-Bulk-Fruit-Vegetable-Ordering-Platform/index.html",
+    "main.4086991a.css.map": "/FreshKart-Bulk-Fruit-Vegetable-Ordering-Platform/static/css/main.4086991a.css.map",
+    "main.5a7840ff.js.map": "/FreshKart-Bulk-Fruit-Vegetable-Ordering-Platform/static/js/main.5a7840ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4086991a.css",
+    "static/js/main.5a7840ff.js"
+  ]
+}
