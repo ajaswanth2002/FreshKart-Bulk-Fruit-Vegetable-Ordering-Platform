@@ -5,7 +5,7 @@ FreshKart is a full-stack web application for bulk ordering of fruits and vegeta
 ⸻
 
 🚀 Features
-
+```
 🧑‍💼 User Features
 	•	Browse fruits and vegetables in bulk quantities
 	•	Add products to cart
@@ -16,7 +16,7 @@ FreshKart is a full-stack web application for bulk ordering of fruits and vegeta
 	•	View all bulk orders
 	•	Manage products (via backend APIs)
 	•	Lightweight and fast database using SQLite
-
+```
 ⸻
 
 🏗️ Tech Stack
